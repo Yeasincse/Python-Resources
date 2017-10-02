@@ -1,0 +1,30 @@
+######  Dynamic Solution Innovators ##########
+1) Personal information
+      1) Why we hired you?
+      2) What writing about Strength and weakneess?
+      3) Why should you after 3 years working anywhere or not?
+      4) Writing about some techonology of your project university /personal project?
+ 2) Programming part 1
+     1) Write about quicksort has best work or worst?
+     2)Write about bublesort has best work or worst?
+     3)Write about margesort has best work or worst?which efficient?
+     4) Swap value change interchange without any temporaly variable or builtin method? if you consider any two value a=4 and b=8
+       that aslike result a=8 and b=4 output.
+     5) Given that rekursion that n=n+1
+                                  n=n+1+n+2
+                                  n=n+1+n+2+n+3 .....
+                                  that 
+                                  int(func1,funct2)
+                                  if func2=0
+                                    return 0
+                                    
+                                   return .........
+                                  write code that single line in the dot
+   6)writing code that 
+             pangram coding as like 
+                   c code
+   7) writing code that  array[]={1,2,3.5} that multiply more value in array .now you show 2nd number value in the array sorting
+    this value.writing this code
+   8)writing code that multipy array in the two dimensional array  created. find out any value position 
+          value  array[n]  aslike something
+   9) 
